@@ -1,63 +1,69 @@
-# 👩‍💻 Aditi | Aspiring Data Analyst
+# 👩‍💻 Aditi | Data Analyst in the Making
 
-Welcome to my GitHub! I'm Aditi — a data enthusiast with a keen eye for patterns, a love for data-driven storytelling, and a growing portfolio of insightful analytics projects.
+Hey there! Welcome to my GitHub 👋  
+I'm **Aditi**, an enthusiastic and detail-driven aspiring **Data Analyst** with a deep curiosity for transforming raw datasets into powerful insights and compelling data stories.
 
-I’m passionate about turning raw data into actionable insights and building compelling narratives backed by numbers. Whether it's cleaning messy datasets, uncovering hidden trends, or visualizing data to make it speak — this is where I learn, experiment, and grow.
-
----
-
-## 🌟 Featured Projects
-
-### 🚢 [Titanic Disaster Analysis](https://github.com/Aditi662/Titanic-Disaster-Analysis)
-A classic yet powerful introduction to predictive analytics. This project explores survival trends aboard the Titanic using Python and statistical techniques.
-
-**Key Skills Applied:**
-- 🧼 Data Wrangling with Pandas & NumPy  
-- 📊 Exploratory Data Analysis (EDA)  
-- 📉 Data Visualization using Seaborn & Matplotlib  
-- 🤖 Machine Learning (Logistic Regression, Decision Trees)  
-
-> _Outcome:_ Developed a predictive model to estimate passenger survival and gained experience in end-to-end project pipelines.
+With every project, I strive to uncover patterns, communicate findings visually, and solve real-world problems using data. Whether it's wrangling messy datasets or building predictive models — this space reflects my learning journey and growing expertise in the world of data analytics.
 
 ---
 
-### 🧠 [OCD Data Exploration](https://github.com/Aditi662/OCD-Analysis)
-A data-driven investigation into Obsessive-Compulsive Disorder (OCD) patterns and demographics. An analytical dive into mental health datasets to understand behavioral insights.
+## 🌟 Highlighted Projects
 
-**Key Skills Applied:**
-- 📈 Statistical Data Exploration  
-- 📍 Identifying Correlations & Trends  
-- 📊 Visual Storytelling with Clean, Informative Charts  
-- 📌 Drawing Insightful Conclusions Based on Real-World Data  
+### 🚢 [Titanic Survival Analysis](https://github.com/Aditi662/Titanic-Disaster-Analysis)
+An end-to-end predictive analytics project on the iconic Titanic dataset, exploring passenger demographics, survival patterns, and building machine learning models.
 
-> _Outcome:_ Created clear, concise visualizations and insights around mental health awareness.
+**Tech Stack & Skills Used:**
+- 🔹 Data Cleaning & Preprocessing (Pandas, NumPy)  
+- 🔹 In-depth EDA (Seaborn, Matplotlib)  
+- 🔹 Supervised Learning Models (Logistic Regression, Decision Trees)  
+- 🔹 Insightful Visual Reports & Dashboard Elements  
+
+> _📌 Impact:_ Developed a survival prediction model and honed my skills in data exploration and model interpretation.
 
 ---
 
-## 📚 Tools & Technologies
+### 🧠 [OCD Data Analysis](https://github.com/Aditi662/OCD-Analysis)
+A deep-dive analysis into mental health, specifically OCD, using statistical exploration and visualization to derive impactful insights.
 
-- **Languages:** Python, SQL (basic), Markdown  
-- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn  
-- **Skills:** Data Cleaning, EDA, Visualization, Modeling, Insight Communication  
-- **Currently Exploring:** Tableau, Plotly, Streamlit, and machine learning techniques  
+**Tech Stack & Skills Used:**
+- 🔹 Statistical Analysis & Feature Correlation  
+- 🔹 Visualization Techniques (Heatmaps, Bar & Pie Charts)  
+- 🔹 Interpretation of Health & Behavior Data  
+- 🔹 Insight Communication through Jupyter Notebooks  
+
+> _📌 Impact:_ Gained valuable experience working with real-world mental health data while reinforcing ethical analysis principles.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category         | Tools & Libraries                           |
+|------------------|---------------------------------------------|
+| **Languages**    | Python, Markdown, (Basic) SQL               |
+| **Libraries**    | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Tech Focus**   | Data Cleaning, EDA, Statistical Analysis, Visualization, ML (Beginner) |
+| **Currently Learning** | Tableau, Plotly, Streamlit, Power BI |
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Continuously learning and building in the field of **data analysis** and **machine learning**  
-- 📊 Love working with real-world data to uncover actionable insights  
-- 💬 Always open to feedback, discussions, and collaborative learning  
-- 🧩 Fascinated by data in domains like health, education, and social impact  
-- 📫 Reach me via [GitHub](https://github.com/Aditi662)  
+- 🔍 **Always exploring** new ways to make data more understandable and actionable  
+- 🎯 **Goal:** To grow into a versatile data professional who can extract value from complex datasets  
+- 🤝 **Collaboration-ready:** Love engaging with the data community and contributing to impactful projects  
+- 📌 **Interests:** Mental health, public datasets, education, and anything that tells a story through numbers  
+- 💼 **Looking for:** Internships, mentorships, and open-source data projects  
 
 ---
 
-## 🤝 Let’s Connect!
+## 💬 Let’s Connect!
 
-If you’re a fellow data enthusiast, working on similar projects, or just curious about my work — feel free to explore my repositories, share your thoughts, or start a conversation.
+I'm actively building, learning, and growing — and would love to hear from fellow data enthusiasts, mentors, or collaborators.
 
-> _“Data is the new oil, but insight is the spark.”_ 🔍  
-Let’s keep exploring, analyzing, and growing together!
+📬 Reach out via: [GitHub](https://github.com/Aditi662)  
+📖 Feel free to explore my repositories and drop a ⭐ if you find something interesting!
+
+> _“Without data, you're just another person with an opinion.” – W. Edwards Deming_  
+Let’s turn data into decisions. 🔍📊
 
 ---
